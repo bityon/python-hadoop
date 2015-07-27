@@ -9,3 +9,6 @@ Contributors:
   * Brian Bloniarz <brian.bloniarz@gmail.com>
   * Alex Roper <aroper@umich.edu>
   * Jeremy G. Kahn <jeremy@trochee.net>
+
+--
+Added the support for BytesWritable method (found in forks repos)
