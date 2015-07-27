@@ -1,4 +1,0 @@
-
-
-[pydoop]
-pydoop>=0.9.1
